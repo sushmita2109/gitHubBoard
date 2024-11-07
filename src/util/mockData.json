@@ -1,0 +1,34 @@
+{
+  "board": {
+    "items": [
+      {
+        "title": "Todo",
+        "iconColor": "green",
+        "description": "This item hasn't been started",
+        "count": 0,
+        "texts": []
+      },
+      {
+        "title": "In Progress",
+        "iconColor": "orange",
+        "description": "This is actively being worked on",
+        "count": 0,
+        "texts": []
+      },
+      {
+        "title": "Review",
+        "iconColor": "red",
+        "description": "",
+        "count": 0,
+        "texts": []
+      },
+      {
+        "title": "Done",
+        "iconColor": "purple",
+        "description": "This has been completed",
+        "count": 0,
+        "texts": []
+      }
+    ]
+  }
+}
